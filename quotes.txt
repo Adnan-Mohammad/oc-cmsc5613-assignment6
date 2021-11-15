@@ -15,3 +15,6 @@
 
 "Go confidently in the direction of your dreams! Live the life you've imagined." 
 -Henry David Thoreau
+
+"The greatest glory in living lies not in never falling, but in rising every time we fall." 
+-Nelson Mandela
